@@ -1,0 +1,8 @@
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\obj\Debug\ChatHost.csprojResolveAssemblyReference.cache
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Venera\Desktop\C#\wcf_chat\ChatHost\obj\Debug\ChatHost.pdb
